@@ -1,6 +1,5 @@
 # Key for firebase store
-key.json
-key.json:Zone.Identifier
+key/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
