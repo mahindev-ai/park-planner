@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "park-planner-ul",
+  "private_key_id": "a3079fcb8cc1a2bb2befd1f7e788c924fd892f5b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCmBMMG0fzZi4qO\nHopEW778Q9JzkNvW9/7tuIiYMmwO9itVoCxxl+eLeMKHxx7IvTPAJsUKV69zUgrt\nM1w/jURErwZWnk4y/RxzVucA6MG5aJUW5RdR+ZcsBuhzEEEAkz/spxHld79qKk/o\nEEIzpKDFORIkW4Mtl4lRvLJf7awyGyNTM1hb67Uv//Ml4/rGbCavafaYyyiYkJXS\n1G6D9nNKjXmemDF9bysjU0qbLUP8fw2XIgtLnFWioivaYb9hgVjXty9QRRMDLYzM\nnig/Cv1WrPQz7njvMeGHL8XV6hXCsM8tj2vQWkaPfpVWEFYtWxfkzi3CjQPYjrXH\nFW4lpiwRAgMBAAECggEACeW7JwIgMOu5UJZUY8WEs/s63dwFKCpgHMXZYlnwsF5n\niFb4iVPfGGT0U3YI8Tqa3gXtrat7NKy/pSMgiPMj/pSA5CtzQeXOMzfbRRYLPRGF\noGAbYR4oL5Ywl9IAbw9oQmR2LBwEychwm7cS7EtgcIuRx+A7CH36EDj3uSF1KGY2\nQwCfeAE4znnxeVN8YJfT2kzNo3mBoym9oNCcPWGMS8CXWnKYL1R4a7lSHcEoEGfD\nuvRpSPwC46quDXQ0N54bIzjQhaFKfg33U63uhQeyFPZJ/2FkXCofwtyUAag2D+Ka\nSNi8+XIfVu/jlaanoV1Xjq1tREygX8FW83Bfd+twwQKBgQDdVMfLfsTR/NRZ4p3d\ngOAFj5OkUst/G51assWzP3XRk7V0TaihJTtv8qB1oVwXqn+FxJk4xjmugeWw1tQS\njKPEAfqxRjm4PEZuLwna7pEeovJn9NnoF5OqrkRRHPS6FEcMxzu7UBoOwM6aLZi2\nnxYcltRGAmcq6A77YyG94o3dwQKBgQDABfzA+XYh/oLEZU2YWrfZQRzCAwZ7OOep\n3uqx2WyVIXGfc2211iNgCS9eICiROYyQCxqPp3MqINFVxJcP8RJ9iFIWqCEbsn3A\nQgT4l6PEq9EwPvkQOvzi+9Zapk+tu8sgdNBmAJUVYj25m8d23XWK/m7dyeSiE4kK\nCxUVE+eCUQKBgE+OeuaNoaetTpMknwQQn/W/vx0w2Y7N2UjRu7iLlgkIJBAzHesW\nm//IYZ8Gqjijg4UMvtqmffNZI7vl7ILiZLc+0uLH0FWF7PcMF2nHmQg/IAz3+R+w\n4dZXH51cYCdGxKc2MiVJTKSC74CB5UO3eVY7bP/hOz4z/bak0msTtVTBAoGBAIvF\nz+1HqE2mTNlYQ9sabaieVKiEOzuGeFqWAI/ki70h0usVwk4RyT4mcWw6TE0pbr+K\n1ZKreJC5wqaDqtHX0HW/vMDxMOhQTGidpbCt8G9AAcz0iabeySUP2z+wv17ey0Sc\nwvT8h4hBMlzgn5hOKzk5asnWI642OhItbvMgweuBAoGAPtEqIEKvBIAVuDAl+YOq\nsDs4y9JCPnCy+hGErmBAP2VebdumcLN8XFhKf7jGVVsDWDTRYDHwg8EIom92OrC3\nUdZjs1DKMJkr0olwBjQejRFNWVY625rCm4ojvIgitPw89HMgYta4bozW0m6JMchy\nWMo44s70GEZJH1Xxj5UwWhI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-a80vk@park-planner-ul.iam.gserviceaccount.com",
+  "client_id": "106259606480257566606",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-a80vk%40park-planner-ul.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
