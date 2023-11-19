@@ -8,15 +8,10 @@ ENV PYTHONUNBUFFERED True
 # Copy local code to the container image.
 ENV APP_HOME /app
 WORKDIR $APP_HOME
+COPY . ./
 
-# Copy all files from the local directory to the container.
-COPY . .
-
-# Create the 'key' directory in the container.
-RUN mkdir key
-
-# Copy the contents of the local 'key' directory to the container 'key' directory.
-COPY key/ $APP_HOME/key/
+#Esta línea para copiar el directorio 'key'
+COPY key ./key  
 
 # Install production dependencies.
 RUN pip install --no-cache-dir -r requirements.txt
