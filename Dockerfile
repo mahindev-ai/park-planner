@@ -12,7 +12,6 @@ WORKDIR $APP_HOME
 COPY . ./
 
 RUN git clone https://github.com/mahindev-ai/park-planner.git
-WORKDIR $APP_HOME/park-planner
 
 # Install production dependencies.
 RUN pip install --no-cache-dir -r requirements.txt
