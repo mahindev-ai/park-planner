@@ -11,7 +11,7 @@ api = Api(app)
 
 # Initialize Firestore DB
 # Fetch the service account key JSON file contents
-cred = credentials.Certificate('key/key.json')
+cred = credentials.Certificate('key.json')
 
 # Initialize the app with a service account, granting admin privileges
 firebase_admin.initialize_app(cred, {
